@@ -26,7 +26,7 @@ author = "Yafurosa"
 email = "nostrum0@163.com"
 author_homepage = "https://www.imalan.cn"
 description = "糖衣之下，甜美或是炮弹。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+key_words = ['Maverick', 'Yafurosa', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
@@ -35,9 +35,9 @@ external_links = [
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "三無計劃",
+        "name": "Episodes",
         "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "brief": "选集"
     }
 ]
 nav = [
@@ -47,7 +47,7 @@ nav = [
         "target": "_self"
     },
     {
-        "name": "归档",
+        "name": "联系",
         "url": "${site_prefix}archives/",
         "target": "_self"
     },
